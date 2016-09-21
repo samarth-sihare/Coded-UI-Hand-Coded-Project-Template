@@ -21,3 +21,5 @@ After importing the template as mentioned above you can create a new project by 
 1. Navigate to FILE --> New --> Projects... (or simply hit Ctrl+Shift+N)
 2. Under Templates --> Visual C# --> Test 
 3. Select <b>Coded UI Hand Coding Project</b>
+
+<strong>Note:</strong>You may have to remove lot of pre-existing sample code snippet and rename the files, methods etc.
