@@ -23,3 +23,9 @@ After importing the template as mentioned above you can create a new project by 
 3. Select <b>Coded UI Hand Coding Project</b>
 
 <strong>Note:</strong>You may have to remove lot of pre-existing sample code snippet and rename the files, methods etc.
+
+
+## TIPS
+<strong>1. Error in Excel DataDriven Test:</strong>
+
+If you get a connection error, it's most likely due to the fact that you don't have the 2007 Office System Driver installed for the OLEDB provider. You can download it from the following Microsoft link: http://www.microsoft.com/en-us/download/details.aspx?id=23734
