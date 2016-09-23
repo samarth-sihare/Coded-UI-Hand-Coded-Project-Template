@@ -5,7 +5,7 @@ The zip file is a Visual Studio Project Template that can be imported and used t
 
 This is a simple CodedUI Project Template for hand coding with simple Data-drive approach and POM
 
-## How to import project templates in Visiual Studio?
+## How to import project templates in Visual Studio?
 By default, Visual Studio searches two locations for project and item templates.
 
 1. <b>Installed Templates:</b> By default, templates installed together with the product are located in: \<VisualStudioInstallationDirectory>\Common7\IDE\ProjectTemplates\<Language>\<Locale>\
